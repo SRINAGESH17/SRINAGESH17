@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SRINAGESH17
-- 👀 I’m interested in Android App Development And Web too
+- 👀 I’m interested in App Development And Web
 - 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on Full Stack
 - 📫 How to reach me ...
